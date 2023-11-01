@@ -1,3 +1,14 @@
+# Design Tokens Tailwind Config
+
+This repo provides the base setup and configuration for Tailwind using the [@metamask/design-tokens](https://github.com/MetaMask/design-tokens). It is intended to provide consistency of color, shadow and typography in the interim to a shared UI component library.
+
+### Provided
+
+- [create-react-app](https://github.com/facebook/create-react-app)
+- [tailwindcss](https://github.com/tailwindlabs/tailwindcss)
+- [@metamask/design-tokens](https://github.com/MetaMask/design-tokens)
+- Font files: `EuclidCircularB` and `Roboto`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
