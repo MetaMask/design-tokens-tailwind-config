@@ -173,7 +173,6 @@ module.exports = {
         "s-body-xs-medium": "var(--typography-s-body-xs-medium-line-height)",
         "s-body-xs": "var(--typography-s-body-xs-line-height)",
         // large screen typography
-        
       },
     },
     colors: {
@@ -189,43 +188,35 @@ module.exports = {
       },
       shadow: {
         default: "var(--color-shadow-default)",
+        primary: "var(--color-shadow-primary)",
+        error: "var(--color-shadow-error)",
       },
       primary: {
         default: "var(--color-primary-default)",
         alternative: "var(--color-primary-alternative)",
         muted: "var(--color-primary-muted)",
         inverse: "var(--color-primary-inverse)",
-        disabled: "var(--color-primary-disabled)",
-        shadow: "var(--color-primary-shadow)",
       },
       error: {
         default: "var(--color-error-default)",
         alternative: "var(--color-error-alternative)",
         muted: "var(--color-error-muted)",
         inverse: "var(--color-error-inverse)",
-        disabled: "var(--color-error-disabled)",
-        shadow: "var(--color-error-shadow)",
       },
       warning: {
         default: "var(--color-warning-default)",
-        alternative: "var(--color-warning-alternative)",
         muted: "var(--color-warning-muted)",
         inverse: "var(--color-warning-inverse)",
-        disabled: "var(--color-warning-disabled)",
       },
       success: {
         default: "var(--color-success-default)",
-        alternative: "var(--color-success-alternative)",
         muted: "var(--color-success-muted)",
         inverse: "var(--color-success-inverse)",
-        disabled: "var(--color-success-disabled)",
       },
       info: {
         default: "var(--color-info-default)",
-        alternative: "var(--color-info-alternative)",
         muted: "var(--color-info-muted)",
         inverse: "var(--color-info-inverse)",
-        disabled: "var(--color-info-disabled)",
       },
     },
   },
