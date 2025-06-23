@@ -1,3 +1,24 @@
+
+<table>
+  <tr>
+    <td>
+      <p align="center"><b>⚠️ PLEASE READ ⚠️</b></p>
+      <p align="center">
+        This package has been migrated to the <a href="https://github.com/MetaMask/metamask-design-system/blob/main/apps/storybook-react/tailwind.config.js">tailwind.config.js</a> in our
+        <a href="https://github.com/MetaMask/metamask-design-system"
+          ><code>metamask-design-system</code></a
+        >
+        monorepo, and this repository has been archived. Please note that all
+        future development and feature releases will take place in the
+        <a href="https://github.com/MetaMask/metamask-design-system"
+          ><code>metamask-design-system</code></a
+        >
+        repository.
+      </p>
+    </td>
+  </tr>
+</table>
+
 # Design Tokens Tailwind Config
 
 This repo provides the base setup and configuration for Tailwind using the [@metamask/design-tokens](https://github.com/MetaMask/design-tokens). It is intended to provide consistency of color, shadow and typography in the interim to a shared UI component library.
