@@ -4,7 +4,7 @@
     <td>
       <p align="center"><b>⚠️ PLEASE READ ⚠️</b></p>
       <p align="center">
-        This package has been migrated to the [tailwind.config.js](https://github.com/MetaMask/metamask-design-system/blob/main/apps/storybook-react/tailwind.config.js) in our
+        This package has been migrated to the <a href="https://github.com/MetaMask/metamask-design-system/blob/main/apps/storybook-react/tailwind.config.js">tailwind.config.js</a> in our
         <a href="https://github.com/MetaMask/metamask-design-system"
           ><code>metamask-design-system</code></a
         >
